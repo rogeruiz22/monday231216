@@ -8,6 +8,8 @@
   <artifactId>monday231216</artifactId>
   <version>1.0-SNAPSHOT</version>
 
+  <name>monday231216</name>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
@@ -24,7 +26,8 @@
     <dependency>
       <groupId>org.testng</groupId>
       <artifactId>testng</artifactId>
-      <version>7.6.0</version>
+<!--      <version>7.6.0</version>-->
+      <version>7.5</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
